@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:bridgingHeader.swift">
+   </FileRef>
+   <FileRef
       location = "group:bluetoothSample.xcodeproj">
    </FileRef>
    <FileRef
